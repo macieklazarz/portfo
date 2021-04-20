@@ -1,0 +1,8 @@
+
+adres_mail_od@op.pl, tytul_maila, tekst wiadomosci wysylanej
+adres_mail_od@gmail.com, temat_maila, tres_wiadomosci email
+oooop@op.pl, sub, mail content
+asdasd@we.pl, sasfdf, xcsdf
+asdsad@op.pl, rrter, rergfd
+teraz@op.pl, teraz@op.pl, teraz@op.pl
+asd@po.asd, fsdf, xfsfd
