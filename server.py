@@ -1,4 +1,4 @@
-from flask import Flask, render_template, url_for, request, redirect
+from flask import Flask, render_template, url_for, request, redirect, send_file
 from email.message import EmailMessage
 from twilio.rest import Client
 import csv
@@ -95,3 +95,10 @@ def submit_form():
             return redirect('/toomanymessages.html')
     else:
         return 'sth is wrong'
+
+@app.route('/getPlotCSV') # this is a job for GET, not POST
+def plot_csv():
+    return send_file('image.jpg',
+                     mimetype='jpg',
+                     attachment_filename='image.jpg',
+                     as_attachment=True)

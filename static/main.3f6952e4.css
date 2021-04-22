@@ -267,7 +267,7 @@ th {
 	h3,
 	p {
 		orphans: 3;
-		widows: 3
+		widows: 3;
 	}
 	h2,
 	h3 {
@@ -5935,9 +5935,45 @@ textarea {
 }
 
 .mojaklasa{
-	background-color: #222930;
+	/*background-color: #222930;*/
+	float: left;
 	padding: 150px;
 }
+
+.mlclass{
+	text-align: justify;
+}
+
+#mlclass{
+	text-align: justify;
+}
+
+
+#listofwebsites{
+	color: #fff!important; 
+	list-style-type: none!important; 
+}
+
+
+.listofwebsites{
+	font-size: 22px;
+	font-weight: 300;
+	color: black; 
+	list-style-type: none; 
+	text-align: center;
+	
+}
+
+.listofwebsites>li>a{
+
+	color: black; 
+	list-style-type: none; 
+}
+
+.listofwebsites>p{
+	font-size: 13px;
+}
+
 
 
 /*# sourceMappingURL=main.70a66962.map*/
