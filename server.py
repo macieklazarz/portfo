@@ -38,8 +38,8 @@ def mail_sender(data):
 
 
 def sms_message():
-    account_sid = 'AC3172e7ab734af3e69c3d7ad2fea4d486'
-    auth_token = 'f3b44fca0081f9ed3b027f7e59f74bb2'
+    account_sid = 'wstaw'
+    auth_token = 'wstaw'
     client = Client(account_sid, auth_token)
 
     message = client.messages.create(
