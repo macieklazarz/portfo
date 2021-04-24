@@ -3,11 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="6fb39adc-053e-4397-87fd-46323e604589" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database.csv" beforeDir="false" afterPath="$PROJECT_DIR$/database.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database.txt" beforeDir="false" afterPath="$PROJECT_DIR$/database.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/main.3f6952e4.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/main.3f6952e4.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/mywebsite.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/mywebsite.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/works.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/works.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/time_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/time_file.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
